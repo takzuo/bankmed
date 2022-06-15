@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138878356693",
+    "firebase_url": "https://banktest-78781-default-rtdb.firebaseio.com",
+    "project_id": "banktest-78781",
+    "storage_bucket": "banktest-78781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138878356693:android:09bc6f40f0e7629906265c",
+        "android_client_info": {
+          "package_name": "com.takzuo.bankmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138878356693-f31aqkfjlhahmt5j579qnepiih3jjc40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.takzuo.bankmed",
+            "certificate_hash": "7ec3fe3c091cd2950648929aa0b3a885b61677bc"
+          }
+        },
+        {
+          "client_id": "138878356693-lllg6p62d6t138h512dr1d2q3v0qgi4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH-mub1B5hb3fFmGf8M14rP_I4giIZZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138878356693-lllg6p62d6t138h512dr1d2q3v0qgi4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
